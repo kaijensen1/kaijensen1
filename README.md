@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on analizying data 
+- 🌱 I’m currently learning R, SQL, and Tableau
+
 <!--
 **kaijensen1/kaijensen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
